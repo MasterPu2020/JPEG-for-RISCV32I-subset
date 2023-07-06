@@ -1,0 +1,1527 @@
+-------------------------------------
+
+Total Block to be decoded: 24
+
+Using default Luminace Huffman table decodeing.
+DC Code: 1111110  Code Size: 7  Data: 001011111  :  -416  Data Size: 9
+AC Code: 1010 EOB
+Block is:
+-416   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 0 .image is:
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+
+Block L, Location:  0 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 0 .image is:
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+
+Block L, Location:  1 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 0 .image is:
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+
+Block L, Location:  0 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 0 .image is:
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+  81  81  81  81  81  81  81  81
+
+Block L, Location:  1 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 111111110  Code Size: 9  Data: 010100111  :  -344  Data Size: 9
+AC Code: 00 EOB
+Block is:
+-344   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 0 .image is:
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+
+Block C, Location:  0 0
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 1111111000  :  1016  Data Size: 10        
+AC Code: 00 EOB
+Block is:
+1016   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 0 .image is:
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+ 242 242 242 242 242 242 242 242
+
+Block C, Location:  0 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 11111110  Code Size: 8  Data: 1001010000  :  592  Data Size: 10
+AC Code: 1010 EOB
+Block is:
+ 592   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 1 .image is:
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+
+Block L, Location:  2 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 1 .image is:
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+
+Block L, Location:  3 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 1 .image is:
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+
+Block L, Location:  2 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 1 .image is:
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+ 147 147 147 147 147 147 147 147
+
+Block L, Location:  3 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 111111110  Code Size: 9  Data: 010110111  :  -328  Data Size: 9
+AC Code: 00 EOB
+Block is:
+-328   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 1 .image is:
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+  52  52  52  52  52  52  52  52
+
+Block C, Location:  1 0
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 11111111110  Code Size: 11  Data: 00010101111  :  -1872  Data Size: 11     
+AC Code: 00 EOB
+Block is:
+-1872   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 0 .image is:
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+  31  31  31  31  31  31  31  31
+
+Block C, Location:  1 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 11111110  Code Size: 8  Data: 0001100110  :  -921  Data Size: 10
+AC Code: 1111111110000101  Code Size: 16  Data: 1000001  :  65 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 111101  :  61 Zeros: 0
+AC Code: 1111111110100001  Code Size: 16  Data: 110111  :  55 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 101111  :  47 Zeros: 0
+AC Code: 1111111111000010  Code Size: 16  Data: 100101  :  37 Zeros: 9
+AC Code: 11010  Code Size: 5  Data: 11001  :  25 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 1101  :  13 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+-921   0  65  61   0   0   0   0
+   0  55  47   0   0   0   0   0
+   0   0   0   0  37  25   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  13   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 2 .image is:
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+
+Block L, Location:  0 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1111111110000101  Code Size: 16  Data: 1000001  :  65 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 111101  :  61 Zeros: 0
+AC Code: 1111111110100001  Code Size: 16  Data: 110111  :  55 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 101111  :  47 Zeros: 0
+AC Code: 1111111111000010  Code Size: 16  Data: 100101  :  37 Zeros: 9
+AC Code: 11010  Code Size: 5  Data: 11001  :  25 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 1101  :  13 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+   0   0  65  61   0   0   0   0
+   0  55  47   0   0   0   0   0
+   0   0   0   0  37  25   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  13   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 2 .image is:
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+  83  38  37  39  38  38  37  39
+
+Block L, Location:  1 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 1110  Code Size: 4  Data: 010000  :  -47  Data Size: 6
+AC Code: 1010 EOB
+Block is:
+ -47   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 2 .image is:
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+
+Block L, Location:  0 3
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 2 .image is:
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+  38  38  38  38  38  38  38  38
+
+Block L, Location:  1 3
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 11111111110  Code Size: 11  Data: 11001000011  :  1603  Data Size: 11      
+AC Code: 1111111110001000  Code Size: 16  Data: 0001001  :  -118 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 0010000  :  -111 Zeros: 0
+AC Code: 1111111110100011  Code Size: 16  Data: 0011011  :  -100 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 0101010  :  -85 Zeros: 0
+AC Code: 1111111111000101  Code Size: 16  Data: 0111100  :  -67 Zeros: 9
+AC Code: 111000  Code Size: 6  Data: 010001  :  -46 Zeros: 0
+AC Code: 1111111111100111  Code Size: 16  Data: 00111  :  -24 Zeros: 13
+AC Code: 00 EOB
+Block is:
+1603   0-118-111   0   0   0   0
+   0-100 -85   0   0   0   0   0
+   0   0   0   0 -67 -46   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0 -24   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 2 .image is:
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+ 161 242 244 240 243 243 245 241
+
+Block C, Location:  0 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 1011111010  :  762  Data Size: 10
+AC Code: 1111111110001000  Code Size: 16  Data: 1100111  :  103 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 1100001  :  97 Zeros: 0
+AC Code: 1111111110100011  Code Size: 16  Data: 1010111  :  87 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 1001010  :  74 Zeros: 0
+AC Code: 1111111111000100  Code Size: 16  Data: 111010  :  58 Zeros: 9
+AC Code: 111000  Code Size: 6  Data: 101000  :  40 Zeros: 0
+AC Code: 1111111111100111  Code Size: 16  Data: 10100  :  20 Zeros: 13
+AC Code: 00 EOB
+Block is:
+ 762   0 103  97   0   0   0   0
+   0  87  74   0   0   0   0   0
+   0   0   0   0  58  40   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  20   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 1 .image is:
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+ 179 108 107 110 107 108 106 109
+
+Block C, Location:  0 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 111111110  Code Size: 9  Data: 10010010011  :  1171  Data Size: 11
+AC Code: 1111111110000100  Code Size: 16  Data: 010111  :  -40 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 011001  :  -38 Zeros: 0
+AC Code: 1111111110100001  Code Size: 16  Data: 011101  :  -34 Zeros: 5
+AC Code: 11010  Code Size: 5  Data: 00010  :  -29 Zeros: 0
+AC Code: 1111111111000001  Code Size: 16  Data: 01000  :  -23 Zeros: 9
+AC Code: 11010  Code Size: 5  Data: 01111  :  -16 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 0111  :  -8 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+1171   0 -40 -38   0   0   0   0
+   0 -34 -29   0   0   0   0   0
+   0   0   0   0 -23 -16   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  -8   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 3 .image is:
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+
+Block L, Location:  2 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1111111110000100  Code Size: 16  Data: 010111  :  -40 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 011001  :  -38 Zeros: 0
+AC Code: 1111111110100001  Code Size: 16  Data: 011101  :  -34 Zeros: 5
+AC Code: 11010  Code Size: 5  Data: 00010  :  -29 Zeros: 0
+AC Code: 1111111111000001  Code Size: 16  Data: 01000  :  -23 Zeros: 9
+AC Code: 11010  Code Size: 5  Data: 01111  :  -16 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 0111  :  -8 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+   0   0 -40 -38   0   0   0   0
+   0 -34 -29   0   0   0   0   0
+   0   0   0   0 -23 -16   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  -8   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 3 .image is:
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+ 146 174 174 173 174 174 174 173
+
+Block L, Location:  3 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 110  Code Size: 3  Data: 11101  :  29  Data Size: 5
+AC Code: 1010 EOB
+Block is:
+  29   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 3 .image is:
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+
+Block L, Location:  2 3
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 1010 EOB
+Block is:
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 3 .image is:
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+ 173 173 173 173 173 173 173 173
+
+Block L, Location:  3 3
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 0101110101  :  -650  Data Size: 10        
+AC Code: 1111111110001000  Code Size: 16  Data: 0100111  :  -88 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 0101100  :  -83 Zeros: 0
+AC Code: 1111111110100011  Code Size: 16  Data: 0110100  :  -75 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 0111111  :  -64 Zeros: 0
+AC Code: 1111111111000100  Code Size: 16  Data: 001101  :  -50 Zeros: 9
+AC Code: 111000  Code Size: 6  Data: 011101  :  -34 Zeros: 0
+AC Code: 1111111111100111  Code Size: 16  Data: 01101  :  -18 Zeros: 13
+AC Code: 1111001  Code Size: 7  Data: 0  :  -1 Zeros: 6
+AC Code: 01  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 111110111  Code Size: 9  Data: 0  :  -1 Zeros: 9
+AC Code: 00 EOB
+Block is:
+-650   0 -88 -83   0   0   0   0
+   0 -75 -64   0   0   0   0   0
+   0   0   0   0 -50 -34   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0 -18   0   0   0   0
+   0   0  -1  -1   0   0   0   0
+   0   0   0   0   0  -1   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 3 .image is:
+ 105 167 168 165 167 167 168 166
+ 106 167 168 165 167 167 168 166
+ 105 166 168 165 167 167 168 166
+ 106 167 167 165 167 167 168 166
+ 105 166 168 165 167 167 168 166
+ 106 167 168 165 167 167 168 166
+ 105 167 168 165 167 167 168 166
+ 106 167 168 165 167 167 168 166
+
+Block C, Location:  1 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 0001100111  :  -920  Data Size: 10        
+AC Code: 111110101  Code Size: 9  Data: 1111  :  15 Zeros: 1
+AC Code: 11000  Code Size: 5  Data: 1110  :  14 Zeros: 0
+AC Code: 1111111110100000  Code Size: 16  Data: 1100  :  12 Zeros: 5
+AC Code: 11000  Code Size: 5  Data: 1011  :  11 Zeros: 0
+AC Code: 1111111111000010  Code Size: 16  Data: 1000  :  8 Zeros: 9
+AC Code: 1010  Code Size: 4  Data: 110  :  6 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 11  :  3 Zeros: 13
+AC Code: 1111001  Code Size: 7  Data: 0  :  -1 Zeros: 6
+AC Code: 01  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 111110111  Code Size: 9  Data: 0  :  -1 Zeros: 9
+AC Code: 00 EOB
+Block is:
+-920   0  15  14   0   0   0   0
+   0  12  11   0   0   0   0   0
+   0   0   0   0   8   6   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   3   0   0   0   0
+   0   0  -1  -1   0   0   0   0
+   0   0   0   0   0  -1   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 2 .image is:
+  22  12  12  12  12  12  12  12
+  23  12  12  12  12  12  12  12
+  22  12  12  13  12  12  12  13
+  23  12  12  12  12  12  12  12
+  22  12  12  13  12  12  12  13
+  23  12  12  12  12  12  12  12
+  22  12  12  13  12  12  12  12
+  22  12  12  12  12  12  12  12
+
+Block C, Location:  1 1
+
+
+[ Image Decoding finished ]. File code remained: 11
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------
+
+Total Block to be decoded: 24
+
+Using default Luminace Huffman table decodeing.
+DC Code: 1111110  Code Size: 7  Data: 010101101  :  -338  Data Size: 9
+AC Code: 1010 EOB
+Block is:
+-338   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 0 .image is:
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+
+Block L, Location:  0 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 11  :  3  Data Size: 2
+AC Code: 100  Code Size: 3  Data: 010  :  -5 Zeros: 0
+AC Code: 111111110101  Code Size: 12  Data: 101  :  5 Zeros: 3
+AC Code: 100  Code Size: 3  Data: 011  :  -4 Zeros: 0
+AC Code: 1111111110101110  Code Size: 16  Data: 100  :  4 Zeros: 7
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 1111111111010000  Code Size: 16  Data: 10  :  2 Zeros: 11
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1010 EOB
+Block is:
+   3  -5   0   0   0   5  -4   0
+   0   0   0   0   0   0   4  -2
+   0   0   0   0   0   0   0   0
+   0   0   0   2  -1   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 0 .image is:
+  90  90  90  90  90  90  90  90
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  93  93  93  93  93  93  93  93
+
+Block L, Location:  1 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 00  :  -3  Data Size: 2
+AC Code: 1010 EOB
+Block is:
+  -3   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 0 .image is:
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+
+Block L, Location:  0 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 11  :  3  Data Size: 2
+AC Code: 100  Code Size: 3  Data: 010  :  -5 Zeros: 0
+AC Code: 111111110101  Code Size: 12  Data: 100  :  4 Zeros: 3
+AC Code: 100  Code Size: 3  Data: 011  :  -4 Zeros: 0
+AC Code: 1111111110101110  Code Size: 16  Data: 100  :  4 Zeros: 7
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 1111111001  Code Size: 10  Data: 1  :  1 Zeros: 11
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1010 EOB
+Block is:
+   3  -5   0   0   0   4  -4   0
+   0   0   0   0   0   0   4  -2
+   0   0   0   0   0   0   0   0
+   0   0   0   1  -1   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 0 .image is:
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  89  89  89  89  89  89  89  89
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  89  89  89  89  89  89  89  89
+  90  90  90  90  90  90  90  90
+  93  93  93  93  93  93  93  93
+
+Block L, Location:  1 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 111111110  Code Size: 9  Data: 011101110  :  -273  Data Size: 9
+AC Code: 00 EOB
+Block is:
+-273   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 0 .image is:
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+  97  97  97  97  97  97  97  97
+
+Block C, Location:  0 0
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 1100011111  :  799  Data Size: 10
+AC Code: 00 EOB
+Block is:
+ 799   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 0 .image is:
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+ 217 217 217 217 217 217 217 217
+
+Block C, Location:  0 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 111110  Code Size: 6  Data: 11011101  :  221  Data Size: 8
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 111110111  Code Size: 9  Data: 01  :  -2 Zeros: 3
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 111111110111  Code Size: 12  Data: 01  :  -2 Zeros: 7
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1111111001  Code Size: 10  Data: 0  :  -1 Zeros: 11
+AC Code: 1010 EOB
+Block is:
+ 221  -2   0   0   0  -2  -2   0
+   0   0   0   0   0   0  -2  -1
+   0   0   0   0   0   0   0   0
+   0   0   0  -1   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 1 .image is:
+ 113 113 113 113 113 113 113 113
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+
+Block L, Location:  2 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 10  :  2  Data Size: 2
+AC Code: 1010 EOB
+Block is:
+   2   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 1 .image is:
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+ 115 115 115 115 115 115 115 115
+
+Block L, Location:  3 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 00  Code Size: 2  Data:   :  0  Data Size: 0
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 01  :  -2 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 11111001  Code Size: 8  Data: 01  :  -2 Zeros: 2
+AC Code: 00  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 111110111  Code Size: 9  Data: 01  :  -2 Zeros: 3
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 111011  Code Size: 6  Data: 0  :  -1 Zeros: 4
+AC Code: 1111011  Code Size: 7  Data: 0  :  -1 Zeros: 6
+AC Code: 1010 EOB
+Block is:
+   0  -2  -2   2   0  -2  -2   0
+   0  -2   1   0   0   0  -2  -1
+   0   0   0   0  -1   0   0   0
+   0   0   0  -1   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 1 .image is:
+ 113 113 113 113 113 113 114 115
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+
+Block L, Location:  2 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 10  :  2  Data Size: 2
+AC Code: 11011  Code Size: 5  Data: 01  :  -2 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 11111110111  Code Size: 11  Data: 01  :  -2 Zeros: 5
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 111111001  Code Size: 9  Data: 0  :  -1 Zeros: 9
+AC Code: 00  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 1010 EOB
+Block is:
+   2   0  -2   2   0   0   0   0
+   0  -2   2   0   0   0   0   0
+   0   0   0   0  -1   1   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 1 .image is:
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+ 115 115 115 115 115 115 115 116
+
+Block L, Location:  3 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 0111110001  :  -526  Data Size: 10        
+AC Code: 11000  Code Size: 5  Data: 1010  :  10 Zeros: 0
+AC Code: 111111110111  Code Size: 12  Data: 1010  :  10 Zeros: 3
+AC Code: 11000  Code Size: 5  Data: 1001  :  9 Zeros: 0
+AC Code: 1111111110110000  Code Size: 16  Data: 1000  :  8 Zeros: 7
+AC Code: 1010  Code Size: 4  Data: 101  :  5 Zeros: 0
+AC Code: 1111111111010011  Code Size: 16  Data: 100  :  4 Zeros: 11
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 00 EOB
+Block is:
+-526  10   0   0   0  10   9   0
+   0   0   0   0   0   0   8   5
+   0   0   0   0   0   0   0   0
+   0   0   0   4   2   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 1 .image is:
+  44  44  44  44  44  44  44  44
+  37  37  37  37  37  37  37  37
+  36  36  36  36  36  36  36  36
+  37  37  37  37  37  37  37  37
+  37  37  37  37  37  37  37  37
+  37  37  37  37  37  37  37  37
+  36  36  36  36  36  36  36  36
+  37  37  37  37  37  37  37  37
+
+Block C, Location:  1 0
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 0110001000  :  -631  Data Size: 10        
+AC Code: 1111000  Code Size: 7  Data: 1000001  :  65 Zeros: 0
+AC Code: 1111111110010010  Code Size: 16  Data: 111111  :  63 Zeros: 3
+AC Code: 111000  Code Size: 6  Data: 111011  :  59 Zeros: 0
+AC Code: 1111111110110010  Code Size: 16  Data: 110100  :  52 Zeros: 7
+AC Code: 111000  Code Size: 6  Data: 100010  :  34 Zeros: 0
+AC Code: 1111111111010101  Code Size: 16  Data: 11010  :  26 Zeros: 11
+AC Code: 11000  Code Size: 5  Data: 1101  :  13 Zeros: 0
+AC Code: 00 EOB
+Block is:
+-631  65   0   0   0  63  59   0
+   0   0   0   0   0   0  52  34
+   0   0   0   0   0   0   0   0
+   0   0   0  26  13   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 0 .image is:
+ 187 187 187 187 187 187 187 187
+ 141 141 141 141 141 141 141 141
+ 139 139 139 139 139 139 139 139
+ 142 142 142 142 142 142 142 142
+ 142 142 142 142 142 142 142 142
+ 141 141 141 141 141 141 141 141
+ 139 139 139 139 139 139 139 139
+ 142 142 142 142 142 142 142 142
+
+Block C, Location:  1 0
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 11111110  Code Size: 8  Data: 0110110110  :  -585  Data Size: 10
+AC Code: 1111111110000101  Code Size: 16  Data: 1000010  :  66 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 110111  :  55 Zeros: 0
+AC Code: 1111111110100001  Code Size: 16  Data: 101011  :  43 Zeros: 5
+AC Code: 11010  Code Size: 5  Data: 11111  :  31 Zeros: 0
+AC Code: 1111111111000001  Code Size: 16  Data: 10001  :  17 Zeros: 9
+AC Code: 1011  Code Size: 4  Data: 1110  :  14 Zeros: 0
+AC Code: 1111111111100100  Code Size: 16  Data: 1000  :  8 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+-585   0  66  55   0   0   0   0
+   0  43  31   0   0   0   0   0
+   0   0   0   0  17  14   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   8   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 2 .image is:
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+  81  51  44  44  44  43  42  44
+
+Block L, Location:  0 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 100  Code Size: 3  Data: 110  :  6  Data Size: 3
+AC Code: 1011  Code Size: 4  Data: 0110  :  -9 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 111101  :  61 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 110101  :  53 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 111  :  7 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 1000  :  8 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 0111  :  -8 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 000  :  -7 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 11  :  3 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 101011  :  43 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 100001  :  33 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 00  :  -3 Zeros: 1
+AC Code: 100  Code Size: 3  Data: 110  :  6 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 111  :  7 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 011  :  -4 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 001  :  -6 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 00  :  -3 Zeros: 1
+AC Code: 11010  Code Size: 5  Data: 10011  :  19 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 1111  :  15 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 11  :  3 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 01  :  -2 Zeros: 1
+AC Code: 100  Code Size: 3  Data: 100  :  4 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 11  :  3 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 00  :  -3 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 00  :  -3 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 1000  :  8 Zeros: 0
+AC Code: 1100  Code Size: 4  Data: 1  :  1 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 1100  Code Size: 4  Data: 0  :  -1 Zeros: 1
+AC Code: 00  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 11100  Code Size: 5  Data: 0  :  -1 Zeros: 2
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 11100  Code Size: 5  Data: 1  :  1 Zeros: 2
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 11100  Code Size: 5  Data: 1  :  1 Zeros: 2
+AC Code: 1010 EOB
+Block is:
+   6  -9  61  53   7   8  -8  -7
+   3  43  33   0  -3   6   7  -4
+  -6   2   0  -3  19  15  -2   3
+   0  -2   4   3  -1  -3   1   0
+  -3   2  -1   8   0   1  -2   2
+   0  -1   1   0   0  -1   2  -1
+   0   0   1  -1   1   0   0   1
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 2 .image is:
+  81  51  44  44  44  44  42  44
+  81  52  44  42  43  43  41  43
+  82  51  44  44  44  43  42  44
+  82  51  45  43  44  44  42  44
+  81  51  45  44  44  44  42  44
+  81  52  44  43  43  43  41  43
+  82  51  45  44  45  44  41  44
+  82  44  47  55  54  53  52  56
+
+Block L, Location:  1 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 1110  Code Size: 4  Data: 001000  :  -55  Data Size: 6
+AC Code: 1010 EOB
+Block is:
+ -55   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 2 .image is:
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+
+Block L, Location:  0 3
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 101  Code Size: 3  Data: 1011  :  11  Data Size: 4
+AC Code: 1011  Code Size: 4  Data: 0000  :  -15 Zeros: 0
+AC Code: 1111111110001111  Code Size: 16  Data: 1111  :  15 Zeros: 3
+AC Code: 1011  Code Size: 4  Data: 0001  :  -14 Zeros: 0
+AC Code: 1111111110101111  Code Size: 16  Data: 1100  :  12 Zeros: 7
+AC Code: 1011  Code Size: 4  Data: 0111  :  -8 Zeros: 0
+AC Code: 1111111111010001  Code Size: 16  Data: 110  :  6 Zeros: 11
+AC Code: 01  Code Size: 2  Data: 00  :  -3 Zeros: 0
+AC Code: 1010 EOB
+Block is:
+  11 -15   0   0   0  15 -14   0
+   0   0   0   0   0   0  12  -8
+   0   0   0   0   0   0   0   0
+   0   0   0   6  -3   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 2 .image is:
+  44  44  44  44  44  44  44  44
+  43  43  43  43  43  43  43  43
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  44  44  44  44  44  44  44  44
+  43  43  43  43  43  43  43  43
+  44  44  44  44  44  44  44  44
+  55  55  55  55  55  55  55  55
+
+Block L, Location:  1 3
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 1010111010  :  698  Data Size: 10
+AC Code: 1111111110001001  Code Size: 16  Data: 01110000  :  -143 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 0000001  :  -126 Zeros: 0
+AC Code: 1111111110100011  Code Size: 16  Data: 0011000  :  -103 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 0110100  :  -75 Zeros: 0
+AC Code: 1111111111000100  Code Size: 16  Data: 011010  :  -37 Zeros: 9
+AC Code: 11001  Code Size: 5  Data: 01001  :  -22 Zeros: 0
+AC Code: 1111111111100110  Code Size: 16  Data: 0100  :  -11 Zeros: 13
+AC Code: 00 EOB
+Block is:
+ 698   0-143-126   0   0   0   0
+   0-103 -75   0   0   0   0   0
+   0   0   0   0 -37 -22   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0 -11   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 2 .image is:
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+  44 111 132 128 127 129 132 127
+
+Block C, Location:  0 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 111110  Code Size: 6  Data: 001110  :  -49  Data Size: 6
+AC Code: 1111111110001000  Code Size: 16  Data: 1111011  :  123 Zeros: 1
+AC Code: 1111000  Code Size: 7  Data: 1101110  :  110 Zeros: 0
+AC Code: 1111111110100011  Code Size: 16  Data: 1011100  :  92 Zeros: 5
+AC Code: 1111000  Code Size: 7  Data: 1000101  :  69 Zeros: 0
+AC Code: 1111111111000100  Code Size: 16  Data: 100100  :  36 Zeros: 9
+AC Code: 11001  Code Size: 5  Data: 10111  :  23 Zeros: 0
+AC Code: 1111111111100110  Code Size: 16  Data: 1011  :  11 Zeros: 13
+AC Code: 00 EOB
+Block is:
+ -49   0 123 110   0   0   0   0
+   0  92  69   0   0   0   0   0
+   0   0   0   0  36  23   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  11   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 1 .image is:
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+ 205 144 127 131 131 130 127 132
+
+Block C, Location:  0 1
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 1111110  Code Size: 7  Data: 101110111  :  375  Data Size: 9
+AC Code: 100  Code Size: 3  Data: 011  :  -4 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 011110  :  -33 Zeros: 0
+AC Code: 11010  Code Size: 5  Data: 00010  :  -29 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 011  :  -4 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 00  :  -3 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 11111110110  Code Size: 11  Data: 00111  :  -24 Zeros: 1
+AC Code: 11010  Code Size: 5  Data: 01101  :  -18 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 10  :  2 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 00  :  -3 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 10  :  2 Zeros: 0
+AC Code: 1100  Code Size: 4  Data: 0  :  -1 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 0101  :  -10 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 001  :  -6 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1100  Code Size: 4  Data: 1  :  1 Zeros: 1
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 111010  Code Size: 6  Data: 0  :  -1 Zeros: 3
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 11011  Code Size: 5  Data: 00  :  -3 Zeros: 1
+AC Code: 11100  Code Size: 5  Data: 0  :  -1 Zeros: 2
+AC Code: 01  Code Size: 2  Data: 01  :  -2 Zeros: 0
+AC Code: 1111010  Code Size: 7  Data: 0  :  -1 Zeros: 5
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1111010  Code Size: 7  Data: 0  :  -1 Zeros: 5
+AC Code: 1010 EOB
+Block is:
+ 375  -4 -33 -29   2  -4  -3   2
+   0 -24 -18  -1   0   2  -3  -2
+   2   0  -1  -2 -10  -6  -1  -2
+  -1   0   1  -1   0   0   0  -1
+  -2  -1   0  -3   0   0  -1  -2
+   0   0   0   0   0  -1  -1   0
+   0   0   0   0  -1   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  1 in MCU 3 .image is:
+  67  88  92  86  86  88  87  85
+  70  86  91  90  90  90  91  90
+  71  85  90  91  91  91  92  91
+  70  86  91  90  90  90  91  90
+  71  87  91  90  91  91  91  91
+  71  86  91  90  90  91  92  90
+  71  86  90  91  91  91  91  91
+  70  86  91  90  90  90  91  90
+
+Block L, Location:  2 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 011  Code Size: 3  Data: 11  :  3  Data Size: 2
+AC Code: 1111111110000100  Code Size: 16  Data: 011101  :  -34 Zeros: 1
+AC Code: 11010  Code Size: 5  Data: 00010  :  -29 Zeros: 0
+AC Code: 1111111110100000  Code Size: 16  Data: 01000  :  -23 Zeros: 5
+AC Code: 11010  Code Size: 5  Data: 01111  :  -16 Zeros: 0
+AC Code: 1111111111000000  Code Size: 16  Data: 0111  :  -8 Zeros: 9
+AC Code: 100  Code Size: 3  Data: 001  :  -6 Zeros: 0
+AC Code: 1111111111100010  Code Size: 16  Data: 00  :  -3 Zeros: 13
+AC Code: 1010 EOB
+Block is:
+   3   0 -34 -29   0   0   0   0
+   0 -23 -16   0   0   0   0   0
+   0   0   0   0  -8  -6   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0  -3   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  2 in MCU 3 .image is:
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+  71  86  91  91  90  90  91  90
+
+Block L, Location:  3 2
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 110  Code Size: 3  Data: 10101  :  21  Data Size: 5
+AC Code: 100  Code Size: 3  Data: 001  :  -6 Zeros: 0
+AC Code: 111111110101  Code Size: 12  Data: 001  :  -6 Zeros: 3
+AC Code: 100  Code Size: 3  Data: 010  :  -5 Zeros: 0
+AC Code: 1111111110101110  Code Size: 16  Data: 010  :  -5 Zeros: 7
+AC Code: 01  Code Size: 2  Data: 00  :  -3 Zeros: 0
+AC Code: 1111111111010000  Code Size: 16  Data: 01  :  -2 Zeros: 11
+AC Code: 00  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1010 EOB
+Block is:
+  21  -6   0   0   0  -6  -5   0
+   0   0   0   0   0   0  -5  -3
+   0   0   0   0   0   0   0   0
+   0   0   0  -2  -1   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  3 in MCU 3 .image is:
+  86  86  86  86  86  86  86  86
+  90  90  90  90  90  90  90  90
+  91  91  91  91  91  91  91  91
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  91  91  91  91  91  91  91  91
+  91  91  91  91  91  91  91  91
+  90  90  90  90  90  90  90  90
+
+Block L, Location:  2 3
+
+
+Using default Luminace Huffman table decodeing.
+DC Code: 100  Code Size: 3  Data: 100  :  4  Data Size: 3
+AC Code: 1010 EOB
+Block is:
+   4   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Luminace Block  4 in MCU 3 .image is:
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+  90  90  90  90  90  90  90  90
+
+Block L, Location:  3 3
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 11111110  Code Size: 8  Data: 11000011  :  195  Data Size: 8
+AC Code: 1010  Code Size: 4  Data: 110  :  6 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 0011000  :  -103 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 0100010  :  -93 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 101  :  5 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 110  :  6 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 101  :  5 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 101  :  5 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 11  :  3 Zeros: 0
+AC Code: 1111000  Code Size: 7  Data: 0110001  :  -78 Zeros: 0
+AC Code: 111000  Code Size: 6  Data: 000011  :  -60 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 11  :  3 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 100  :  4 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 101  :  5 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 11  :  3 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 100  :  4 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 11  :  3 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 111111110101  Code Size: 12  Data: 011111  :  -32 Zeros: 1
+AC Code: 11001  Code Size: 5  Data: 01010  :  -21 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 0  :  -1 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 1  :  1 Zeros: 1
+AC Code: 100  Code Size: 3  Data: 11  :  3 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 111001  Code Size: 6  Data: 10  :  2 Zeros: 1
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 11010  Code Size: 5  Data: 0  :  -1 Zeros: 2
+AC Code: 11000  Code Size: 5  Data: 0101  :  -10 Zeros: 0
+AC Code: 1011  Code Size: 4  Data: 0  :  -1 Zeros: 1
+AC Code: 11011  Code Size: 5  Data: 1  :  1 Zeros: 3
+AC Code: 111011  Code Size: 6  Data: 0  :  -1 Zeros: 5
+AC Code: 11010  Code Size: 5  Data: 0  :  -1 Zeros: 2
+AC Code: 00 EOB
+Block is:
+ 195   6-103 -93   5   6   5   5
+   3 -78 -60   2   3   4   5   3
+   4   3   2   0 -32 -21  -1   0
+   1   3   2   2   0   2   1   1
+   0   0  -1 -10   0  -1   0   0
+   0   1   0   0   0   0   0  -1
+   0   0  -1   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Blue Chrominace Block in MCU 3 .image is:
+  95 146 152 148 147 148 151 146
+  83 136 149 146 146 148 149 145
+  80 134 149 146 146 147 149 145
+  82 136 150 146 146 147 150 146
+  81 135 149 146 146 147 150 146
+  82 135 150 146 146 147 149 146
+  80 134 149 146 146 147 149 145
+  83 136 150 146 146 147 150 145
+
+Block C, Location:  1 1
+
+
+Using default Chrominace Huffman table decodeing.
+DC Code: 1111111110  Code Size: 10  Data: 0100000001  :  -766  Data Size: 10        
+AC Code: 111000  Code Size: 6  Data: 100010  :  34 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 11000  :  24 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 10110  :  22 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 111000  Code Size: 6  Data: 100001  :  33 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 11111  :  31 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 10010  :  18 Zeros: 0
+AC Code: 11000  Code Size: 5  Data: 1101  :  13 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 11011  :  27 Zeros: 0
+AC Code: 11001  Code Size: 5  Data: 10010  :  18 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 111  :  7 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 100  :  4 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 100  Code Size: 3  Data: 10  :  2 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 11000  Code Size: 5  Data: 1101  :  13 Zeros: 0
+AC Code: 1010  Code Size: 4  Data: 111  :  7 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 111001  Code Size: 6  Data: 10  :  2 Zeros: 1
+AC Code: 11010  Code Size: 5  Data: 1  :  1 Zeros: 2
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 01  Code Size: 2  Data: 1  :  1 Zeros: 0
+AC Code: 00 EOB
+Block is:
+-766  34  24  22   2  33  31   2
+   2  18  13   2   2   2  27  18
+   2   2   2   1   7   4   1   1
+   2   2   1  13   7   1   1   1
+   1   1   0   2   0   0   1   1
+   1   1   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+   0   0   0   0   0   0   0   0
+Red Chrominace Block in MCU 2 .image is:
+  95  78  71  73  73  73  73  73
+  64  52  49  50  50  50  50  50
+  61  51  49  49  49  49  48  49
+  64  53  50  50  50  50  49  51
+  64  53  50  50  50  50  50  51
+  63  52  49  50  49  49  49  50
+  62  51  48  49  49  49  49  49
+  64  53  50  50  50  50  50  51
+
+Block C, Location:  1 1
+
+
+[ Image Decoding finished ]. File code remained: 11
