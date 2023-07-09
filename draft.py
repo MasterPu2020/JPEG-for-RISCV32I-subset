@@ -17,7 +17,7 @@ def show(block_list):
 
 
 # Discrete Cosine Transform (32-bit Integer Only Version: Standered)
-def dct1(s:list):
+def dct1(block:list):
     
     # 2^16 = 65536
     pi_mul_2  = 411775 # pi << 16 * 2
@@ -28,9 +28,14 @@ def dct1(s:list):
     # CORDIC variation of the angle: 0.7853982, 0.4636476, 0.2449787, 0.1243550, 0.0624188, 0.0312398, 0.0156237
     sigma = [51471 , 30385 , 16054 , 8149 , 4090 , 2047 , 1023]
 
-    # CORDIC cosine function
-    def cos(target:int): # target been << 16
-
+    # CORDIC local cosine function
+    global target, x1 # partly local
+    def cos(): # target been << 16
+        global target
+        global x1
+        # import math
+        # x1 = int(math.cos(target / 2 ** 16) * 2 ** 16)
+        # return # debug
         # constraint in -pi/2 ~ pi/2
         inverse = False
         while target > pi:
@@ -41,37 +46,34 @@ def dct1(s:list):
         elif target < - pi_div_2:
             inverse = True
             target += pi
-        
         theta = 0 # Initial angle: 0 degree
         direction = [0, 0, 0, 0, 0, 0, 0] # clockwise is 1, anticlockwise is -1
-        i = 0 # iteration of the routation direction
-        while i != 7:
+        p = 0 # iteration of the routation direction
+        while p != 7:
             if theta > target:
-                theta -= sigma[i] # clockwise
-                direction[i] = 1
+                theta -= sigma[p] # clockwise
+                direction[p] = 1
             else:
-                theta += sigma[i] # anticlockwise
-                direction[i] = - 1
-            i += 1
+                theta += sigma[p] # anticlockwise
+                direction[p] = - 1
+            p += 1
         # vector routation, 2 to the power using shift
-        x = k
-        y = 0
-        i = 6
-        while i != -1:
-            if direction[i] == 1:
-                x = x - (y >> i)
-                y = (x >> i) + y
+        x1 = k
+        y1 = 0
+        p = 6
+        while p != -1:
+            if direction[p] == 1:
+                x1 = x1 - (y1 >> p)
+                y1 = (x1 >> p) + y1
             else:
-                x = x + (y >> i)
-                y = - (x >> i) + y
-            i -= 1
+                x1 = x1 + (y1 >> p)
+                y1 = - (x1 >> p) + y1
+            p -= 1
         # return cosine result
         if inverse:
-            return - x # integer been << 16 bit
-        else:
-            return   x # integer been << 16 bit
-        
-    S = [0] * 64
+            x1 = - x1 # integer been << 16 bit
+        return
+
     for u in range(0,8):
         if u == 0:
             Cu = 46341 # 1/root(2) << 16
@@ -85,19 +87,23 @@ def dct1(s:list):
             unit = 0
             for x in range(0,8):
                 for y in range(0,8):
-                    temp = s[y + x * 8]
-                    temp = (temp * cos((2*x + 1) * u * pi_div_16)) >> 8
-                    temp = (temp * cos((2*y + 1) * v * pi_div_16)) >> 8
+                    temp = block[y + x * 8]
+                    target = (2*x + 1) * u * pi_div_16
+                    cos()
+                    temp = (temp * x1) >> 8
+                    target = (2*y + 1) * v * pi_div_16
+                    cos()
+                    temp = (temp * x1) >> 8
                     unit += temp
             temp = (Cu * Cv) >> 16
-            temp = (temp * unit) >> (32 + 2) # divide 4
+            temp = (temp * unit) >> 32
+            temp = temp >> 2 # divide 4
             if temp < 0:
                 temp += 1
-            S[v + u * 8] = temp
-    return S # integer matrix
+            block[v + u * 8] = temp
+    return block # integer matrix
 
 # Discrete Cosine Transform 
-# Need more effort to perform an 32-bit integer multiplication to replace 32-bit float multiplication
 def dct2(s:list):
     from math import cos
     from math import pi
