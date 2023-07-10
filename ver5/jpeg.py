@@ -17,7 +17,7 @@ from PIL import Image
 def encode(file_name:str):
 
     # Get the image data
-    jpeg_file = file_name + '.jpg'
+    jpeg_file = file_name + '.bmp'
     rgb_img = Image.open(jpeg_file).convert('RGB')
     img_width, img_hight = rgb_img.size
     

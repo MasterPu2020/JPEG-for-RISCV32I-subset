@@ -44,4 +44,4 @@ def convert(file):
     row_data = base64.b16decode(hexcode)
     with open('./image.row', 'wb') as output_img:
         output_img.write(row_data)
-    print('\r [ROW file Created]                        \n')
+    print('\r [ROW file Created] Size:', int(len(hexcode) / 8) , 'words. \n')

@@ -225,6 +225,8 @@ def op_block(matrix_l:list, option:str, matrix_r:list):
 
 # CORDIC cosine
 def cos(target:float):
+    import math
+    return math.cos(target)
     # constraint in -pi/2 ~ pi/2
     inverse = False
     while target > pi:

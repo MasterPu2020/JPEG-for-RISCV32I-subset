@@ -178,8 +178,10 @@ def encode(file_path:str):
         i += 1
     hex_huffman_string = new_huffstring
 
-    
-    print('\r [Finished] Size:', int(len(hex_huffman_string) / 2), 'bytes.          \n')
+    compresslength = int(len(hex_huffman_string) / 8)
+    uncompresslength = len(img_row_in_uart)
+    compare = round((compresslength / uncompresslength) * 100, 2)
+    print('\r [Finished] Size:', int(len(hex_huffman_string) / 8), 'words, ', compare, '% of original size.\n')
 
     # Generate file
     packup.save(file_path+'.jpg', hight, width, hex_huffman_string, bm.luminance_quantization_table, bm.chrominance_quantization_table)
