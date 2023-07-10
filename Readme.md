@@ -6,9 +6,7 @@
 
 接下来是编码效果，这里没有用93年的量化表，不然年代感十足。压缩大小在原图的10%以下。
 
-[Klee Original](./image.bmp)
+![Klee Encoded](./image.jpg) 
 
-[Klee Encoded](./image.jpg) 
-
-Compressed size: 7.6%
+Image of [Klee](./image.jpg). Compressed size: 7.6%
 
